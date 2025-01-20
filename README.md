@@ -29,3 +29,4 @@ lo que registra un punto de control en el historial del repositorio junto a un m
 ![configuramos el correo](assets/configurar_correo.png)
 
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+![Vericando en GitHub todo esta ok](assets/verificar_cambios.png)
