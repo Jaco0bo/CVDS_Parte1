@@ -15,3 +15,16 @@ lo que registra un punto de control en el historial del repositorio junto a un m
 
 4. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
 ![Enlazar correo institucional](assets/enlazar_correos.png)
+
+5. Crea un repositorio en blanco (vacío) en GitHub.
+![Repositorio remoto](assets/repositorio_online)
+
+6. Configura el repositorio local con el repositorio remoto.
+![Configuracion del repositorio local con el remoto](assets/configurar_repositorio)
+
+7. Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comandos en el directorio donde tienes tu proyecto:
+![Subiendo los cambios](assets/subir_cambios)
+
+8. Configura el correo en git local de manera correcta
+
+9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
