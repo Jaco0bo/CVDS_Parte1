@@ -1,10 +1,10 @@
-PARTE I (Trabajo Individual).
+# PARTE I (Trabajo Individual).
 
 1. Crea un repositorio localmente.
 ![Usando git init](crear_repositorio.png)
 
 2. Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
-![Usando el commando New-Item README.md -ItemType File](agregar_readme.png)
+![Usando el commando New-Item README.md -ItemType File](C:\Users\andres.sepulveda-s\Desktop\Repositorio\assets)
 
 3. Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
 - El comando git add sirve para agregar cambiosnuevos o modificaciones al area de preparacion antes de confirmarlos.
